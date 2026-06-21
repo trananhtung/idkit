@@ -1,5 +1,5 @@
 {
-  "name": "idkit",
+  "name": "@billdaddy/idkit",
   "version": "0.1.0",
   "description": "Tiny, secure id toolkit — URL-safe random ids (nanoid-style) and lexicographically sortable ULIDs with a monotonic factory. Zero dependencies.",
   "keywords": [
